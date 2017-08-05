@@ -1,0 +1,29 @@
+{
+  "name": "electron-101",
+  "version": "1.0.0",
+  "description": "Basic Electron 101 Basics about Electron .",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkar-dev/Electron-101.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick"
+  ],
+  "author": "Omkar Tondawalakr",
+  "license": "ISC",
+  
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+
+  "bugs": {
+    "url": "https://github.com/omkar-dev/Electron-101/issues"
+  },
+  "homepage": "https://github.com/omkar-dev/Electron-101#readme"
+}
